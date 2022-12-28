@@ -1,0 +1,129 @@
+{
+  "GuideData": {
+    "AdsController": 
+      {
+        "BannerAd": "admob",
+		"InterstitialAd": "admob",
+        "NativeAd": "admob",
+		
+		"BannerAdmob": "ca-app-pub-7114471897201453/5662494442",
+        "InterstitialAdmob": "ca-app-pub-7114471897201453/2223325773",
+        "NativeAdmob": "ca-app-pub-7114471897201453/3259692386",
+
+        "BannerFacebook": "",
+        "InterstitialFacebook": "",
+        "NativeFacebook": "",
+
+		"maxBanner": "f7a5525108c00ac0A",
+		"maxInterstitial": "5fa0efbeea673f05A",
+		"maxNative": "bf83265395b54ba8A",
+		
+		"ironsource_appKey": "",
+		
+		"unity_game_id": "5095467",
+		"unity_test": false,
+		"unity_banner": "Banner_Android",
+		"unity_interstitial": "Interstitial_Android",
+
+        "ImageBanner": false,
+        "ImageBannerImg" : "",
+        "ImageBannerURL" : ""
+		
+      },
+
+    "items": [
+      {
+        "title": "Play Melon Playground Instantly in Browser",
+        "image": "https://cdn.now.gg/apps-content/com.TwentySeven.MelonPlayground/game-tiles/melon-playground.jpg",
+        "color": "#000000",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "Play Melon Playground online for free with now.gg mobile cloud. Melon Playground is the explosive and destructive creative sandbox Simulation game",
+        "isNative": false,
+		"background": "#FFFFFF"
+      },
+      {
+        "title": "Play Melon Playground Instantly in Browser",
+        "image": "https://cdn.now.gg/apps-content/com.TwentySeven.MelonPlayground/game-tiles/melon-playground.jpg",
+        "color": "#000000",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "Play Melon Playground online for free with now.gg mobile cloud. Melon Playground is the explosive and destructive creative sandbox Simulation game",
+        "isNative": false,
+		"background": "#FFFFFF"
+      },
+      {
+        "title": "Play Melon Playground Instantly in Browser",
+        "image": "https://cdn.now.gg/apps-content/com.TwentySeven.MelonPlayground/game-tiles/melon-playground.jpg",
+        "color": "#000000",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "Play Melon Playground online for free with now.gg mobile cloud. Melon Playground is the explosive and destructive creative sandbox Simulation game",
+        "isNative": false,
+		"background": "#FFFFFF"
+      },
+      {
+        "title": "Play Melon Playground Instantly in Browser",
+        "image": "https://cdn.now.gg/apps-content/com.TwentySeven.MelonPlayground/game-tiles/melon-playground.jpg",
+        "color": "#000000",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "Play Melon Playground online for free with now.gg mobile cloud. Melon Playground is the explosive and destructive creative sandbox Simulation game",
+        "isNative": false,
+		"background": "#FFFFFF"
+      },
+     {
+        "title": "Play Melon Playground Instantly in Browser",
+        "image": "https://cdn.now.gg/apps-content/com.TwentySeven.MelonPlayground/game-tiles/melon-playground.jpg",
+        "color": "#000000",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "Play Melon Playground online for free with now.gg mobile cloud. Melon Playground is the explosive and destructive creative sandbox Simulation game",
+        "isNative": false,
+		"background": "#FFFFFF"
+      },
+      {
+        "title": "Play Melon Playground Instantly in Browser",
+        "image": "https://cdn.now.gg/apps-content/com.TwentySeven.MelonPlayground/game-tiles/melon-playground.jpg",
+        "color": "#000000",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "Play Melon Playground online for free with now.gg mobile cloud. Melon Playground is the explosive and destructive creative sandbox Simulation game",
+        "isNative": false,
+		"background": "#FFFFFF"
+      },
+      {
+        "title": "Play Melon Playground Instantly in Browser",
+        "image": "https://cdn.now.gg/apps-content/com.TwentySeven.MelonPlayground/game-tiles/melon-playground.jpg",
+        "color": "#000000",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "Play Melon Playground online for free with now.gg mobile cloud. Melon Playground is the explosive and destructive creative sandbox Simulation game",
+        "isNative": false,
+		"background": "#FFFFFF"
+      }
+    ]
+
+  }
+}
